@@ -1,0 +1,11 @@
+ <div className='medicinesName'>
+                <div className='petientdosagelist'>
+                 
+                    <div  className='cross'>
+                    <img src={cross}  width="20px" height="20px"/>
+                    </div>
+                    <label className='count' >1</label>
+                    <input type="text" className='medicines' placeholder='Medicines Name'/>
+                    <input type="text" className='dosagelist' placeholder='Dosage'/>
+                    </div>
+                </div>
